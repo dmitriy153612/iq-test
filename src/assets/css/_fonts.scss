@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'PT Serif';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('PT Serif Regular'),
+    url('@/assets/fonts/pt-serif-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Yeseva One';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Yeseva One'),
+    url('@/assets/fonts/yeseva-one-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Roboto Regular'),
+    url('@/assets/fonts/roboto-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Merriweather Regular'),
+    url('@/assets/fonts/merriweather-regular.woff2') format('woff2');
+}
